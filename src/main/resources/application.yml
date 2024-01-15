@@ -1,0 +1,18 @@
+server:
+  port: 9090
+  
+spring:
+  profiles:
+    active:
+    - prod
+    
+  datasource:
+    url: jdbc:mysql://localhost:3306/shop_tutorial_db
+    username: dbusername
+    password: dbuserpassword
+    
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQLDialect
+  
