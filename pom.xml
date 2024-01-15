@@ -11,8 +11,8 @@
 	<groupId>com.dave.spring</groupId>
 	<artifactId>Dave-Spring-11-app-alpha</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Dave-Spring-11-app-alpha</name>
-	<description>Resource + Auth Server project for Spring Boot</description>
+	<name>ShopAPI-Spring-Demo</name>
+	<description>Simple Spring Boot REST API with CRUD</description>
 	<!--
 	<properties>
 		<java.version>11</java.version>
